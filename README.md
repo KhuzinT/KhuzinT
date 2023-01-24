@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+- ![Hello there](https://github.com/KhuzinT/KhuzinT/blob/main/images/hi.jpg)
 
 ### Языки программирования :
 <div>
