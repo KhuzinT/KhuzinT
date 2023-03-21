@@ -3,7 +3,7 @@
 ### Обо мне :
 
 - Студент ФПМИ МФТИ 
-- Написать мне можно здесь: <div id="badges">
+- Написать можно здесь: <div id="badges">
   <a href="https://t.me/unkle_ayy">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
